@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/Josehokec/Josehokec.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Shizhe LIU(刘世喆)</h1>
+      <p><b>Ph.D.Student</b></p>
+      <p><b>Nanjing University</b></p>
+      <p><b>Phone: 18774669895</b></p>
+      <p><b>Email: 2414946247@qq.com</b></p>
+      <p><b>Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/lsz.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a first-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and Haipeng Dai[Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Interests
 
-1. Numbered
-2. List
+1. IoT(Internet of Things) Database
+2. Machine Learning & Data Mining
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Josehokec/Josehokec.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Education
+1. B.S. in Software Engineering, July 2021
+   JiLin university
+2. Ph.D.Student in Computer Science and Technology, Sept. 2021~Now
+   Nanjing University
