@@ -7,7 +7,6 @@
       <p><b>Nanjing University</b></p>
       <p><b>Phone: 18774669895</b></p>
       <p><b>Email: 2414946247@qq.com</b></p>
-      <p><b>Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China</b></p>
     </td>
     <td width="25%">
       <p></p>
@@ -21,13 +20,10 @@
 
 I'm a first-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
-
-
 ### Interests
 
 1. IoT(Internet of Things) Database
 2. Machine Learning & Data Mining
-
 
 ### Education
 1. B.S. in Software Engineering, July 2021 
@@ -35,3 +31,10 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 
 2. Ph.D.Student in Computer Science and Technology, Sept. 2021~Now
 ###### Nanjing University
+
+### Contact me
+You can send email to me, my email is 241494627@qq.com.
+
+Or you can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Name: 是小哲吖)
+ 
+Or choose to send me a letter. Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
