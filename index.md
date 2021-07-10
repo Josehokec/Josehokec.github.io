@@ -1,5 +1,4 @@
 ## About Me
-
 <table border="0">
   <tr>
     <td width="75%">
@@ -11,12 +10,10 @@
       <p><b>Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China</b></p>
     </td>
     <td width="25%">
-      <img src="/image3.jpg" width="100%">
+      <img src="/image3.jpg" width="95%">
     </td>
   </tr>
 </table>
-
-
 ### Biography
 
 I'm a first-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
