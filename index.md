@@ -11,7 +11,7 @@
       <p><b>Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China</b></p>
     </td>
     <td width="30%">
-      <img src="/lsz.jpg" width="100%">
+      <img src="/image2.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -19,7 +19,7 @@
 
 ### Biography
 
-I'm a first-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and Haipeng Dai[Haipeng Dai](https://cs.nju.edu.cn/daihp/).
+I'm a first-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
 
 
@@ -30,7 +30,5 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 
 
 ### Education
-1. B.S. in Software Engineering, July 2021
-   JiLin university
-2. Ph.D.Student in Computer Science and Technology, Sept. 2021~Now
-   Nanjing University
+1. B.S. in Software Engineering, July 2021, JiLin university
+2. Ph.D.Student in Computer Science and Technology, Sept. 2021~Now, Nanjing University
