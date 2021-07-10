@@ -7,7 +7,7 @@
       <p><b>Nanjing University</b></p>
       <p><b>Phone: 18774669895</b></p>
       <p><b>Email: 2414946247@qq.com</b></p>
-      <p><b>Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu 210023, China</b></p>
+      <p><b>Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China</b></p>
     </td>
     <td width="25%">
       <img src="/image3.jpg" width="95%">
