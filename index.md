@@ -10,7 +10,10 @@
       <p><b>Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China</b></p>
     </td>
     <td width="25%">
+      <p></p>
+      <p>
       <img src="/image3.jpg" width="95%">
+      </p>
     </td>
   </tr>
 </table>
