@@ -30,5 +30,8 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 
 
 ### Education
-1. B.S. in Software Engineering, July 2021, JiLin university
-2. Ph.D.Student in Computer Science and Technology, Sept. 2021~Now, Nanjing University
+#### B.S. in Software Engineering, July 2021 
+##### JiLin University
+
+#### Ph.D.Student in Computer Science and Technology, Sept. 2021~Now
+##### Nanjing University
