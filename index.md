@@ -11,7 +11,7 @@
     <td width="25%">
       <p></p>
       <p>
-      <img src="/image3.jpg" width="95%">
+      <img src="/image3.jpg" width="100%">
       </p>
     </td>
   </tr>
@@ -33,8 +33,8 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 ###### Nanjing University
 
 ### Contact me
-You can send email to me, my email is 241494627@qq.com.
+You can send email to me.My email is 241494627@qq.com.
 
-Or you can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Name: 是小哲吖)
+Or you can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
  
 Or choose to send me a letter. Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
