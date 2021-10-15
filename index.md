@@ -9,7 +9,6 @@
       <p><b>Email: 2414946247@qq.com</b></p>
     </td>
     <td width="25%">
-      <p></p>
       <p>
       <img src="/image3.jpg" width="100%">
       </p>
@@ -26,14 +25,18 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 2. Machine Learning & Data Mining
 
 ### Education
-1. B.S. in Software Engineering, July 2021 
-###### JiLin University
+I received my B.Eng. degree from Software College of [Jilin University](https://www.jlu.edu.cn/). 
+In September 2021, I was admitted to study for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
 
-2. Ph.D.Student in Computer Science and Technology, Sept. 2021~Now
-###### Nanjing University
+### Awards & Honors & Publication
+#### None
+I am working on IoTDB. At the moment I lack a lot of ability and I'm trying to imporove myself.
+I believe : 
+1. No pain, no gain.
+2. With great power comes great responsibility.
 
-### Contact me
-You can send email to me.My email is 241494627@qq.com.
+### Correspondence
+You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn | austin.liu@outlook.com .
 
 Or you can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
  
