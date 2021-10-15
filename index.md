@@ -9,9 +9,7 @@
       <p><b>Email: 2414946247@qq.com</b></p>
     </td>
     <td width="25%">
-      <p>
       <img src="/image3.jpg" width="100%">
-      </p>
     </td>
   </tr>
 </table>
@@ -29,9 +27,10 @@ I received my B.Eng. degree from Software College of [Jilin University](https://
 In September 2021, I was admitted to study for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
 
 ### Awards & Honors & Publication
-#### None
+#### None or nothing
 I am working on IoTDB. At the moment I lack a lot of ability and I'm trying to imporove myself.
-I believe : 
+
+Always, I believe : 
 1. No pain, no gain.
 2. With great power comes great responsibility.
 
