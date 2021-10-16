@@ -4,9 +4,9 @@
     <td width="75%">
       <h1>Shizhe LIU(刘世喆)</h1>
       <p><b>Ph.D.Student</b></p>
-      <p><b>Nanjing University</b></p>
+      <p><b>Nanjing University(NJU)</b></p>
       <p><b>Phone: 18774669895</b></p>
-      <p><b>Email: 2414946247@qq.com</b></p>
+      <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/image3.jpg" width="100%">
@@ -19,8 +19,9 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 
 ### Interests
 
-1. IoT(Internet of Things) Database
-2. Machine Learning & Data Mining
+1. [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
+2. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx)
+3. [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909)
 
 ### Education
 I received my B.Eng. degree from Software College of [Jilin University](https://www.jlu.edu.cn/). 
