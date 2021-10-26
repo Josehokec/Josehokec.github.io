@@ -21,7 +21,7 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 
 1. [Time Series Database](https://github.com/Josehokec/Time-Series-Database), mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
 2. [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909), learned index = machine learning + index structure
-3. Probabilistic data structure, for example: bloom filter, sketch and cuckoo filter
+3. [Probabilistic data structure](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example: bloom filter, sketch and cuckoo filter
 4. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who work in computer-related jobs are interested in AI
 
 ### Education
