@@ -26,6 +26,7 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 
 ### Education
 I received my B.Eng. degree from Software College of [Jilin University](https://www.jlu.edu.cn/). 
+
 In September 2021, I was admitted to pursue for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
 
 ### Awards & Honors & Publication
