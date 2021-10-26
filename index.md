@@ -19,13 +19,14 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 
 ### Interests
 
-1. [Time Series Database](https://github.com/Josehokec/Time-Series-Database)， mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
+1. [Time Series Database](https://github.com/Josehokec/Time-Series-Database), mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
 2. [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909)
-3. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx)
+3. Probabilistic data structure, for example: bloom filter, sketch and cuckoo filter
+4. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx)
 
 ### Education
 I received my B.Eng. degree from Software College of [Jilin University](https://www.jlu.edu.cn/). 
-In September 2021, I was admitted to study for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
+In September 2021, I was admitted to pursue for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
 
 ### Awards & Honors & Publication
 #### None or nothing
