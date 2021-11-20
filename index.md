@@ -26,8 +26,8 @@ I received my B.Eng. degree from Software College of [Jilin University](https://
 1. [Time Series Database](https://github.com/Josehokec/Time-Series-Database), mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
 2. [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909), learned index = machine learning + index structure
 3. [Probabilistic data structure](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example: bloom filter, sketch and cuckoo filter
-4. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who work in computer-related jobs are interested in AI
-5. Index Structure for Big Series Data
+4. Index Structure for Big Series Data
+5. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who work in computer-related jobs are interested in AI
 
 ### Awards & Honors
 Nanjing University President's Special Scholarship, 2021
