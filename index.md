@@ -9,7 +9,7 @@
       <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
     </td>
     <td width="25%">
-      <p>Photos</p>
+      <p><h1>Photos</h1></p>
       <img src="/tiananmen.jpg" width="100%">
     </td>
   </tr>
