@@ -3,7 +3,7 @@
   <tr>
     <td width="75%">
       <p><h1>Shizhe LIU(刘世喆)</h1></p>
-      <p><b>Ph.D.Student</b></p>
+      <p><b>Ph.D.Student, LANDS Group</b></p>
       <p><b>Nanjing University(NJU)</b></p>
       <p><b>Phone: 18774669895</b></p>
       <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
@@ -19,6 +19,8 @@
 
 I'm a first-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
+I received my B.Eng. degree from Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021. In the same year, I was admitted to pursue for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
+
 ### Interests
 
 1. [Time Series Database](https://github.com/Josehokec/Time-Series-Database), mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
@@ -27,15 +29,10 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 4. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who work in computer-related jobs are interested in AI
 5. Index Structure for Big Series Data
 
-### Education
-I received my B.Eng. degree from Software College of [Jilin University](https://www.jlu.edu.cn/). 
-
-In September 2021, I was admitted to pursue for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
-
 ### Awards & Honors
-2021 Nanjing University President's Special Scholarship(Amount: 20000 RMB)
+Nanjing University President's Special Scholarship, 2021
 
-2021 Nanjing University Admission scholarship(Amount: 10000 RMB)
+Nanjing University Admission scholarship, 2021
 
 ### Publication
 #### None or nothing
