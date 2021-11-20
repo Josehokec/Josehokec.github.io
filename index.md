@@ -11,7 +11,6 @@
     <td width="25%">
       <p>Photos</p>
       <img src="/tiananmen.jpg" width="100%">
-      <img src="/image3.jpg" width="100%">  
     </td>
   </tr>
 </table>
