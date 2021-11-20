@@ -5,6 +5,7 @@
       <p><h1>Shizhe LIU(刘世喆)</h1></p>
       <p><b>Ph.D.Student, LANDS Group</b></p>
       <p><b>Nanjing University(NJU)</b></p>
+      <p><b>Department of Computer Science & Technology</b></p>
       <p><b>Phone: 18774669895</b></p>
       <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
     </td>
@@ -43,8 +44,8 @@ Always, I believe :
 2. With great power comes great responsibility.
 
 ### Correspondence
-You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com .
-
-Or you can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
+You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com . You also can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
  
-Or choose to send me a letter. Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
+Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
+
+Laboratory: Room 624, Computer Science Building, Nanjing University Xianlin Campus, Nanjing, China
