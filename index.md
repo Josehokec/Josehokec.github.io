@@ -10,6 +10,8 @@
     </td>
     <td width="25%">
       <img src="/image3.jpg" width="100%">
+      <img src="/JLU.jpg" width="100%">
+      <img src="/tiananmen.jpg" width="100%">
     </td>
   </tr>
 </table>
