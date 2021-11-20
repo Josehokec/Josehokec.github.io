@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Shizhe LIU(刘世喆)</h1>
+      <p><h1>Shizhe LIU(刘世喆)</h1></p>
       <p><b>Ph.D.Student</b></p>
       <p><b>Nanjing University(NJU)</b></p>
       <p><b>Phone: 18774669895</b></p>
@@ -24,13 +24,19 @@ I'm a first-year Ph.D.student in the Department of Computer Science and Technolo
 2. [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909), learned index = machine learning + index structure
 3. [Probabilistic data structure](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example: bloom filter, sketch and cuckoo filter
 4. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who work in computer-related jobs are interested in AI
+5. Index Structure for Big Series Data
 
 ### Education
 I received my B.Eng. degree from Software College of [Jilin University](https://www.jlu.edu.cn/). 
 
 In September 2021, I was admitted to pursue for a Ph.D. degree in [Nanjing University](https://www.nju.edu.cn/) without entrance examination.
 
-### Awards & Honors & Publication
+### Awards & Honors
+2021 Nanjing University President's Special Scholarship(Amount: 20000 RMB)
+
+2021 Nanjing University Admission scholarship(Amount: 10000 RMB)
+
+### Publication
 #### None or nothing
 I am working on IoTDB. At the moment I lack a lot of ability and I'm trying to imporove myself.
 
@@ -39,7 +45,7 @@ Always, I believe :
 2. With great power comes great responsibility.
 
 ### Correspondence
-You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn | austin.liu@outlook.com .
+You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com .
 
 Or you can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
  
