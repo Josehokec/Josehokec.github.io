@@ -7,9 +7,9 @@
       <p><b>Nanjing University(NJU)</b></p>
       <p><b>Phone: 18774669895</b></p>
       <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
-      <img src="/JLU.jpg" width="100%">
     </td>
     <td width="25%">
+      <p><h1>Photos</h1></p>
       <img src="/tiananmen.jpg" width="100%">
       <img src="/image3.jpg" width="100%">  
     </td>
