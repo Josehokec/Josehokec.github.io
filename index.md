@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p>Shizhe LIU(刘世喆)</p>
+      <p><h1>Shizhe LIU(刘世喆)</h1></p>
       <p><b>Ph.D.Student</b></p>
       <p><b>Nanjing University(NJU)</b></p>
       <p><b>Phone: 18774669895</b></p>
