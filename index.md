@@ -2,14 +2,14 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><h1>Shizhe LIU(刘世喆)</h1></p>
+      <p>Shizhe LIU(刘世喆)</p>
       <p><b>Ph.D.Student</b></p>
       <p><b>Nanjing University(NJU)</b></p>
       <p><b>Phone: 18774669895</b></p>
       <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
     </td>
     <td width="25%">
-      <p><h1>Photos</h1></p>
+      <p>Photos</p>
       <img src="/tiananmen.jpg" width="100%">
       <img src="/image3.jpg" width="100%">  
     </td>
