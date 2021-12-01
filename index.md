@@ -47,11 +47,11 @@ Always, I believe :
 ### Correspondence
 1. *Sumarry Table:*
 
-|*Contact way*|*Information*|
-|:--: |:--: |
-|Send Office Email|**shizheliu@smail.nju.edu.cn**|
-|Send QQ Email|241494627@qq.com|
-|Chat on Wechat|18774669895|
+    |*Contact way*|*Information*|
+    |:--: |:--: |
+    |Send Office Email|**shizheliu@smail.nju.edu.cn**|
+    |Send QQ Email|241494627@qq.com|
+    |Chat on Wechat|18774669895|
 
 2. *More Information:*
  
