@@ -44,14 +44,14 @@ Always, I believe :
 2. With great power comes great responsibility.
 
 ### Correspondence
-$rightarrow$ Sumarry:
+$\rightarrow$ Sumarry:
 |*Contact way*|*Information*|
 |:--: |:--: |
 |Send Office Email|**shizheliu@smail.nju.edu.cn**|
 |Send QQ Email|241494627@qq.com|
-|Wechat|18774669895|
+|Chat on Wechat|18774669895|
 
-$rightarrow$ Detail:
+$\rightarrow$ Detail:
 You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com . 
 
 You also can chat with me by adding wechat friends.My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
