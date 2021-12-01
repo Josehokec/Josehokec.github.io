@@ -11,7 +11,7 @@
     </td>
     <td width="25%">
       <p><h1>Photos</h1></p>
-      ![picture](/tiananmen.jpg)
+      ![picture](https://github.com/Josehokec/Josehokec.github.io/blob/main/tiananmen.jpg)
     </td>
   </tr>
 </table>
