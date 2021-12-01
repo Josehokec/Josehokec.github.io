@@ -44,7 +44,15 @@ Always, I believe :
 2. With great power comes great responsibility.
 
 ### Correspondence
-You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com . You also can chat with me by adding wechat friends. My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
+*Summary Table*
+
+|Email 1|241494627@qq.com|
+|Email 2|**shizheliu@smail.nju.edu.cn**|
+|Wechat|18774669895|
+
+You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com . You also can chat with me by adding wechat friends.
+
+My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
  
 Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
 
