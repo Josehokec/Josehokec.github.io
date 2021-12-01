@@ -11,7 +11,7 @@
     </td>
     <td width="25%">
       <p><h1>Photos</h1></p>
-      <img src="/tiananmen.jpg" width="100%">
+      ![picture](/tiananmen.jpg)
     </td>
   </tr>
 </table>
@@ -44,17 +44,14 @@ Always, I believe :
 2. With great power comes great responsibility.
 
 ### Correspondence
-$\rightarrow$ Sumarry:
+*Sumarry Table:*
 |*Contact way*|*Information*|
 |:--: |:--: |
 |Send Office Email|**shizheliu@smail.nju.edu.cn**|
 |Send QQ Email|241494627@qq.com|
 |Chat on Wechat|18774669895|
 
-$\rightarrow$ Detail:
-You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com . 
-
-You also can chat with me by adding wechat friends.My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
+*More Information:*
  
 Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
 
