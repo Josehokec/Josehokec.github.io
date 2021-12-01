@@ -36,24 +36,25 @@ Nanjing University President's Special Scholarship, 2021
 Nanjing University Admission scholarship, 2021
 
 ### Publication
-#### None or nothing
+*None or nothing*
 I am working on IoTDB. At the moment I lack a lot of ability and I'm trying to imporove myself.
 
 Always, I believe : 
-1. No pain, no gain.
+1. ***No pain, no gain.***
 2. With great power comes great responsibility.
 
 ### Correspondence
-*Summary Table*
-
-|Email 1|241494627@qq.com|
-|-------------|--------------------------|
-|Email 2|**shizheliu@smail.nju.edu.cn**|
+$rightarrow$ Sumarry:
+|*Contact way*|*Information*|
+|:--: |:--: |
+|Send Office Email|**shizheliu@smail.nju.edu.cn**|
+|Send QQ Email|241494627@qq.com|
 |Wechat|18774669895|
 
-You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com . You also can chat with me by adding wechat friends.
+$rightarrow$ Detail:
+You can send email to me.Email list: 241494627@qq.com | shizheliu@smail.nju.edu.cn[Main] | austin.liu@outlook.com . 
 
-My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
+You also can chat with me by adding wechat friends.My Wechat account: 18774669895(WeChat ID: lsz18774669895, Wechat Name: 是小哲吖)
  
 Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
 
