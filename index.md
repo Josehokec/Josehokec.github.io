@@ -38,7 +38,7 @@ Nanjing University Admission scholarship, 2021
 ### Publication
 *None or nothing*
 
-I am working on IoTDB. At the moment I lack a lot of ability and I'm trying to imporove myself.
+I am working on IoTDB. At the moment I lack a lot of ability and I'm trying to improve myself.
 
 Always, I believe : 
 1. ***No pain, no gain.***
