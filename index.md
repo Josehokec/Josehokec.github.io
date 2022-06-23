@@ -49,11 +49,11 @@ Consistently, I believe :
 
 1. Fundamentals of Computer Systems (For undergraduate students, Fall 2021)
 
-I am a teaching assistant assisting teachers in answering questions and correcting homework.
+    => I am a teaching assistant assisting teachers in answering questions and correcting homework.
 
 2. Counselor assistant (For graduate students, Spring 2022)
 
-Help the counselor handle some affairs of the graduate student.
+    => Help the counselor handle some affairs of the graduate student.
 
 ### Correspondence
 1. *Sumarry Table:*
