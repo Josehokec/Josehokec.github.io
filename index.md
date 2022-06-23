@@ -28,7 +28,7 @@ I was born in Hunan, so I like spicy food very much. I am a single boy currently
 1. [Time Series Database](https://github.com/Josehokec/Time-Series-Database), mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
 2. [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909), learned index = machine learning + index structure
 3. [Probabilistic data structure](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example, bloom filter, sketch, and cuckoo filter
-4. [Index Structure for Big Series Data](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2018&q=Index+Structure+for+Big+Series+Data&btnG=)
+4. [Index Structure for Big Series Data](https://dblp.org/search?q=time%20series%20index)
 5. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who do computer-related research are interested in AI
 
 ### Awards & Honors
