@@ -29,7 +29,7 @@ I was born in Hunan, so I like spicy food very much. Welcome to challenge super 
 2. [Artificial Intelligence for Database](https://dl.acm.org/doi/10.1145/3448016.3457542), include[Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909)(Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf)(Machine Learning for Cost Estimation and Cardinality Estimation), Knob Tuning and Database Query Optimization.
 3. [Data center Network](https://dl.acm.org/doi/10.1145/3452296.3472898)
 4. [Probabilistic data structure](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example, bloom filter, sketch, and cuckoo filter
-5. [Database Index Structure](https://dblp.org/search?q=time%20series%20index)
+5. [Database Index Structure](https://dblp.org/search?q=time%20series%20index), include Timeseries Index and B+ Tree Index.
 6. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who do computer-related research are interested in AI
 
 ### Awards & Honors
