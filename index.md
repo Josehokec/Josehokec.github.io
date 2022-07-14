@@ -17,19 +17,20 @@
 </table>
 
 ### Biography
-I'm a first-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
+I'm a second-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
 I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021. In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
-I was born in Hunan, so I like spicy food very much. I am a single boy currently. 
+I was born in Hunan, so I like spicy food very much. Welcome to challenge super spicy food with me.
 
 ### Interests
 
 1. [Time Series Database](https://github.com/Josehokec/Time-Series-Database), mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
-2. [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909), learned index = machine learning + index structure
-3. [Probabilistic data structure](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example, bloom filter, sketch, and cuckoo filter
-4. [Index Structure for Big Series Data](https://dblp.org/search?q=time%20series%20index)
-5. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who do computer-related research are interested in AI
+2. [Artificial Intelligence for Database](https://dl.acm.org/doi/10.1145/3448016.3457542), [include Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909)(Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf)(Machine Learning for Cost Estimation and Cardinality Estimation), Knob Tuning and Database Query Optimization.
+3. [Data center Network](https://dl.acm.org/doi/10.1145/3452296.3472898)
+4. [Probabilistic data structure](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example, bloom filter, sketch, and cuckoo filter
+5. [Database Index Structure](https://dblp.org/search?q=time%20series%20index)
+6. [Machine Learning & Data Mining](http://www.lamda.nju.edu.cn/CH.MainPage.ashx), people who do computer-related research are interested in AI
 
 ### Awards & Honors
 Nanjing University President's Special Scholarship, 2021
