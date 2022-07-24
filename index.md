@@ -70,6 +70,6 @@ Consistently, I believe :
     + Address: Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China.
 
     + Laboratory: Room 624, Computer Science Building, Nanjing University Xianlin Campus, Nanjing, China
-### Statisic 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-<span id="busuanzi_value_page_pv">本文总阅读量<i class="fa fa-spinner fa-spin"></i>次</span>
+
+### Statistical Analysis
+<span id="busuanzi_container_page_pv">本网页访问量<span id="busuanzi_value_page_pv"></span>次</span>
