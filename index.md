@@ -75,3 +75,5 @@ Consistently, I believe :
 ![](https://komarev.com/ghpvc/?username=Josehokec)
 
 <a href="https://info.flagcounter.com/9fKv"><img src="https://s11.flagcounter.com/count2/9fKv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+[URL=https://info.flagcounter.com/9fKv][IMG]https://s11.flagcounter.com/count2/9fKv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/[/IMG][/URL]
