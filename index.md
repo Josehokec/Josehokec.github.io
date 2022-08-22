@@ -47,7 +47,7 @@ Consistently, I believe :
 
 ### Volunteer Service
 
-1. Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
+1. Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teachers: Haipeng Dai)
 
     => I am a teaching assistant assisting teachers in answering questions and correcting homework.
 
@@ -55,7 +55,7 @@ Consistently, I believe :
 
     => Help the counselor handle some affairs of the graduate student.
 
-3. Distributed Networks (For graduate students, Fall 2022, Teacher: Haigui Chen & Haipeng Dai)
+3. Distributed Networks (For graduate students, Fall 2022, Teachers: Haigui Chen & Haipeng Dai)
 
     => I am a teaching assistant assisting teachers in answering questions and correcting homework.
 
