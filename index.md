@@ -59,7 +59,7 @@ Consistently, I believe :
 
     => I am a teaching assistant assisting teachers in answering questions and correcting homework.
     
- 4.Paper Assistant Reviewer(INFOCOM'23, VLDB'22, TKDE'22, SC'22)
+ 4. Paper Assistant Reviewer
 
 ### Correspondence
 1. *Sumarry Table:*
