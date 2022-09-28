@@ -26,10 +26,10 @@ I was born in Hunan, so I like spicy food very much. Welcome to challenge super 
 ### Interests
 
 1. [**Time Series Database**](https://github.com/Josehokec/Time-Series-Database), mainly focus on [IoT(Internet of Things) Database](https://iotdb.apache.org/zh/)
-2. [**Artificial Intelligence for Database，AI4DB**](https://dl.acm.org/doi/10.1145/3448016.3457542), include [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909)(Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf)(Machine Learning for Cost Estimation and Cardinality Estimation), [Knob Tuning](http://www.vldb.org/pvldb/vol12/p2118-li.pdf) and [Database Query Optimization](https://dl.acm.org/doi/10.1145/3542700.3542703)
+2. [**Artificial Intelligence for Database，AI4DB**](https://dl.acm.org/doi/10.1145/3448016.3457542), includes [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909)(Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf)(Machine Learning for Cost Estimation and Cardinality Estimation), [Knob Tuning](http://www.vldb.org/pvldb/vol12/p2118-li.pdf) and [Database Query Optimization](https://dl.acm.org/doi/10.1145/3542700.3542703)
 3. [**Probabilistic data structure**](https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures), for example, bloom filter, sketch, and cuckoo filter
-4. [**Database Index Structure**](https://dblp.org/search?q=time%20series%20index), include [Timeseries Index]() and [B+ Tree Index]()
-5. [**Data center Network**](https://dl.acm.org/doi/10.1145/3452296.3472898) and [Software Defined Network]()
+4. [**Database Index Structure**](https://dblp.org/search?q=time%20series%20index), includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
+5. **Time Series Data Mning**[[slides](www.baidu.com)]
 
 ### Awards & Honors
 Nanjing University President's Special Scholarship, 2021
@@ -47,7 +47,7 @@ Consistently, I believe :
 
 ### Volunteer Service
 
-1. Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teachers: Haipeng Dai)
+1. Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teachers: Haipeng Dai & Liang Wang)
 
     => I am a teaching assistant assisting teachers in answering questions and correcting homework.
 
@@ -55,11 +55,11 @@ Consistently, I believe :
 
     => Help the counselor handle some affairs of the graduate student.
 
-3. Distributed Networks (For graduate students, Fall 2022, Teachers: Haigui Chen & Haipeng Dai)
+3. Distributed Networks (For graduate students, Fall 2022, Teachers: Guihai Chen & Haipeng Dai)
 
     => I am a teaching assistant assisting teachers in answering questions and correcting homework.
     
- 4. Paper Assistant Reviewer
+ 4. Paper Assistant Reviewer: VLDB, TKDE, INFOCOM, SC et al.
 
 ### Correspondence
 1. *Sumarry Table:*
