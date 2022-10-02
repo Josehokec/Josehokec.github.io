@@ -66,7 +66,7 @@ Consistently, I believe :
 
     |*Contact way*|*Information*|
     |:--: |:--: |
-    |NJU Office Email|**shizheliu at smail dot nju dot edu dot cn**|
+    |Office Email|**shizheliu at smail dot nju dot edu dot cn**|
     | QQ Email |241494627 at qq dot com|
     | Wechat | 18774669895 |
 
