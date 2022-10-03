@@ -32,9 +32,6 @@ I was born in Hunan, so I like spicy food very much. Welcome to challenge super 
 5. **Time Series Data Mning** [[slides](/Time_Series_Data_Mining.pdf)]
 
 
-[^1]:2022. Tong Yang. High performance Network Measurement. https://yangtonghome.github.io/.
-
-
 ### Awards & Honors
 Nanjing University President's Special Scholarship, 2021
 
@@ -84,3 +81,5 @@ Consistently, I believe :
 ![](https://komarev.com/ghpvc/?username=Josehokec)
 
 <a href="https://info.flagcounter.com/9fKv"><img src="https://s11.flagcounter.com/count2/9fKv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+[^1]: 2022. Tong Yang. High performance Network Measurement. https://yangtonghome.github.io/.
