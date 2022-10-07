@@ -27,7 +27,7 @@ I was born in Hunan, so I like spicy food very much. Welcome to challenge super 
 
 1. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
 2. **Artificial Intelligence for Database，AI4DB** [[survey](https://dl.acm.org/doi/10.1145/3448016.3457542)], includes [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909) (Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf) (Machine Learning for Cost Estimation and Cardinality Estimation), and [Knob Tuning](http://www.vldb.org/pvldb/vol12/p2118-li.pdf)
-3. **Probabilistic data structure**, for example, bloom filter, sketch [[slides](/sketch.pptx)][^1], and cuckoo filter
+3. **Probabilistic data structure**, for example, bloom filter, sketch [slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.), and cuckoo filter
 4. **Database Index Structure**, includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
 5. **Time Series Data Mning** [[slides](/Time_Series_Data_Mining.pdf)]
 
@@ -82,4 +82,4 @@ Consistently, I believe :
 
 <a href="https://info.flagcounter.com/9fKv"><img src="https://s11.flagcounter.com/count2/9fKv/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-[^1]: 2022. Tong Yang. High performance Network Measurement. https://yangtonghome.github.io/.
+
