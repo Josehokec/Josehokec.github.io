@@ -69,7 +69,7 @@ Consistently, I believe :
 |Office Email|**shizheliu at smail dot nju dot edu dot cn**|
 | QQ Email |241494627 at qq dot com|
 | Wechat | 18774669895 |
-| Address | Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu, China |
+| Address | Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China |
 | Laboratory | Room 624, Computer Science Building, Nanjing University Xianlin Campus, Nanjing, China | 
 
 
