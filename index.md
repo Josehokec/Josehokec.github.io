@@ -17,7 +17,7 @@
 </table>
 
 ### Biography
-I'm a second-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
+I'm a second-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://zhuanlan.zhihu.com/p/585760274) and [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml))and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
 I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021. In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
