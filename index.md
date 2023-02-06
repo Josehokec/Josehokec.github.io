@@ -38,7 +38,10 @@ Nanjing University President's Special Scholarship, 2021
 Nanjing University Admission scholarship, 2021
 
 ### Publication
-*None or nothing*（I helped Lihao Wang complete a paper in the past, and the paper is in the voting.）
+
+[UbiComp'23 (CCF A)] Lihao Wang, Wei Wang, Haipeng Dai, Shizhe Liu. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing , October 8-12, Cancun, Mexico, 2023. 
+
+*First author paper : None or nothing*
 
 I am working on IoTDB. Currently, I lack a lot of ability, and I'm trying to improve myself.
 
