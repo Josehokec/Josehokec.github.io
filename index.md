@@ -39,7 +39,7 @@ Nanjing University Admission scholarship, 2021
 
 ### Publication
 
-[UbiComp'23 (CCF A)] Lihao Wang, Wei Wang, Haipeng Dai, Shizhe Liu. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing , October 8-12, Cancun, Mexico, 2023. 
+[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing , October 8-12, Cancun, Mexico, 2023. 
 
 *First author paper : None or nothing*
 
