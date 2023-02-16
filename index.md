@@ -35,7 +35,7 @@ I was born in Hunan, so I like spicy food very much. Welcome to challenge super 
 ### Awards & Honors
 Nanjing University President's Special Scholarship, 2021
 
-Nanjing University Admission scholarship, 2021
+Nanjing University Excellent Graduate Student, 2022
 
 ### Publication
 
