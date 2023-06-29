@@ -39,7 +39,7 @@ Nanjing University Excellent Graduate Student, 2022
 
 [UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing, October 8-12, Cancun, Mexico, 2023. 
 
-*First author paper: None or nothing* I have written a paper recently. I have submitted it to VLDB.
+*First author paper: None or nothing.* I have written a paper and recently submitted it to VLDB.
 
 I am working on IoTDB. Currently, I lack a lot of ability, and I'm trying to improve myself.
 
