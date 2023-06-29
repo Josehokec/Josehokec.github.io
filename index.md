@@ -17,16 +17,14 @@
 </table>
 
 ### Biography
-I'm a second-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://zhuanlan.zhihu.com/p/585760274) and [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml))and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
+I'm a third-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://zhuanlan.zhihu.com/p/585760274) and [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml))and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
-I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021. In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
-
-I was born in Hunan, so I like spicy food very much. Welcome to challenge super spicy food with me.
+I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021 (GPA Rank 3/353). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
 ### Interests
 
 1. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
-2. **Artificial Intelligence for Database，AI4DB** [[survey](https://dl.acm.org/doi/10.1145/3448016.3457542)], includes [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909) (Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf) (Machine Learning for Cost Estimation and Cardinality Estimation), and [Knob Tuning](http://www.vldb.org/pvldb/vol12/p2118-li.pdf)
+2. **Artificial Intelligence for Database（AI4DB for short)** [[survey](https://dl.acm.org/doi/10.1145/3448016.3457542)], includes [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909) (Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf) (Machine Learning for Cost Estimation and Cardinality Estimation), and [Knob Tuning](http://www.vldb.org/pvldb/vol12/p2118-li.pdf)
 3. **Probabilistic data structure**, for example, bloom filter, sketch [[slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.)], and cuckoo filter
 4. **Database Index Structure**, includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
 5. **Time Series Data Mning** [[slides](/Time_Series_Data_Mining.pdf)]
@@ -39,9 +37,9 @@ Nanjing University Excellent Graduate Student, 2022
 
 ### Publication
 
-[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing , October 8-12, Cancun, Mexico, 2023. 
+[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing, October 8-12, Cancun, Mexico, 2023. 
 
-*First author paper : None or nothing*
+*First author paper: None or nothing* I have written a paper recently. I have submitted it to VLDB.
 
 I am working on IoTDB. Currently, I lack a lot of ability, and I'm trying to improve myself.
 
@@ -51,26 +49,18 @@ Consistently, I believe :
 
 ### Volunteer Service
 
-1. Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teachers: Haipeng Dai & Liang Wang)
-
-    => I am a teaching assistant assisting teachers in answering questions and correcting homework.
-
+1. Teaching Assistant
+    * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Guihai Chen)
+    * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
 2. Counselor assistant (For graduate students, Spring 2022)
-
-    => Help the counselor handle some affairs of the graduate student.
-
-3. Distributed Networks (For graduate students, Fall 2022, Teachers: Guihai Chen & Haipeng Dai)
-
-    => I am a teaching assistant assisting teachers in answering questions and correcting homework.
-    
- 4. Paper Assistant Reviewer: VLDB, TKDE, INFOCOM, SC et al.
+3. Part-time instructor (For undergraduate students, Fall 2022 and Spring 2023)
+4. Paper Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, *et al*.
 
 ### Correspondence
 
 |*Contact way*|*Information*|
 |:--:|:--:|
 |Office Email|**shizheliu at smail dot nju dot edu dot cn**|
-| QQ Email |241494627 at qq dot com|
 | Wechat | 18774669895 |
 | Address | Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China |
 | Laboratory | Room 624, Computer Science Building, Nanjing University Xianlin Campus, Nanjing, China | 
