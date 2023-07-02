@@ -6,8 +6,7 @@
       <p><b>Ph.D.Student, LANDS Group</b></p>
       <p><b>Nanjing University(NJU)</b></p>
       <p><b>Department of Computer Science & Technology</b></p>
-      <p><b>Phone: 18774669895</b></p>
-      <p><b>Email: shizheliu at smail dot nju dot edu dot cn</b></p>
+      <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
     </td>
     <td width="25%">
       <p><h1>Photos</h1></p>
@@ -50,7 +49,7 @@ Consistently, I believe :
 ### Volunteer Service
 
 1. Teaching Assistant
-    * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Guihai Chen)
+    * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
 2. Counselor assistant (For graduate students, Spring 2022)
 3. Part-time instructor (For undergraduate students, Fall 2022 and Spring 2023)
@@ -60,10 +59,9 @@ Consistently, I believe :
 
 |*Contact way*|*Information*|
 |:--:|:--:|
-|Office Email|**shizheliu at smail dot nju dot edu dot cn**|
+|Office Email|**shizheliu@smail.nju.edu.cn**|
 | Wechat | 18774669895 |
 | Address | Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China |
-| Laboratory | Room 624, Computer Science Building, Nanjing University Xianlin Campus, Nanjing, China | 
 
 
 ### Statistical Analysis
