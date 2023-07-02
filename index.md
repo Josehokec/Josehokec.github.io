@@ -2,9 +2,9 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <p><h1>Shizhe LIU(刘世喆)</h1></p>
+      <p><h1>Shizhe LIU (刘世喆)</h1></p>
       <p><b>Ph.D.Student, LANDS Group</b></p>
-      <p><b>Nanjing University(NJU)</b></p>
+      <p><b>Nanjing University (NJU)</b></p>
       <p><b>Department of Computer Science & Technology</b></p>
       <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
     </td>
