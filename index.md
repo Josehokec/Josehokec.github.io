@@ -51,9 +51,10 @@ Consistently, I believe :
 1. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
+    * Introduction to Database (For undergraduate students, Fall 2023, Teacher: Wenyang Bai)
 2. Counselor assistant (For graduate students, Spring 2022)
 3. Part-time instructor (For undergraduate students, Fall 2022 and Spring 2023)
-4. Paper Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, *et al*.
+4. Paper Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD, *et al*.
 
 ### Correspondence
 
