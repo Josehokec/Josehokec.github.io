@@ -36,13 +36,11 @@ Nanjing University Excellent Graduate Student, 2022
 
 ### Publication
 
-[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing, October 8-12, Cancun, Mexico, 2023. [PDF](https://dl.acm.org/doi/10.1145/3580889)
+[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024.
 
-*First author paper: None or nothing.* I have written a paper and recently submitted it to VLDB.
+[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In UbiCom, October 8-12, Cancun, Mexico, 2023. [PDF](https://dl.acm.org/doi/10.1145/3580889)
 
-I am working on IoTDB. Currently, I lack a lot of ability, and I'm trying to improve myself.
-
-Consistently, I believe : 
+I always believe that: 
 1. ***No pain, no gain.***
 2. With great power comes great responsibility.
 
