@@ -23,7 +23,7 @@ I received my B.Eng. degree from the Software College of [Jilin University](http
 ### Interests
 
 1. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
-2. **Artificial Intelligence for Database（AI4DB for short)** [[survey](https://dl.acm.org/doi/10.1145/3448016.3457542)], includes [Learned Index](https://dl.acm.org/doi/pdf/10.1145/3183713.3196909) (Machine Learning + Index Structure),  [Learned Query](http://www.vldb.org/pvldb/vol13/p307-sun.pdf) (Machine Learning for Cost Estimation and Cardinality Estimation), and [Knob Tuning](http://www.vldb.org/pvldb/vol12/p2118-li.pdf)
+2. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)]
 3. **Probabilistic data structure**, for example, bloom filter, sketch [[slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.)], and cuckoo filter
 4. **Database Index Structure**, includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
 5. **Time Series Data Mining** [[slides](/Time_Series_Data_Mining.pdf)]
