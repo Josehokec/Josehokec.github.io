@@ -36,9 +36,9 @@ Nanjing University Excellent Graduate Student, 2022
 
 ### Publication
 
-[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024.
+[KDD'24 (CCF A)] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024.
 
-[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In UbiCom, October 8-12, Cancun, Mexico, 2023. [PDF](https://dl.acm.org/doi/10.1145/3580889)
+[UbiComp'23 (CCF A)] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In UbiCom, October 8-12, Cancun, Mexico, 2023. [PDF](https://dl.acm.org/doi/10.1145/3580889)
 
 I always believe that: 
 1. ***No pain, no gain.***
