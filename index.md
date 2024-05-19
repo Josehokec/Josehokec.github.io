@@ -22,8 +22,8 @@ I received my B.Eng. degree from the Software College of [Jilin University](http
 
 ### Interests
 
-1. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
-2. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)]
+1. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)]
+2. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
 3. **Probabilistic data structure**, for example, bloom filter, sketch [[slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.)], and cuckoo filter
 4. **Database Index Structure**, includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
 5. **Time Series Data Mining** [[slides](/Time_Series_Data_Mining.pdf)]
@@ -34,7 +34,7 @@ Nanjing University Presidental Special Scholarship, 2021
 
 Nanjing University Excellent Graduate Student, 2022
 
-### Publication
+### Publications
 
 [KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD (CCF A), August 25-29, Barcelona, Spain, 2024.
 
@@ -46,13 +46,13 @@ I always believe that:
 
 ### Volunteer Service
 
-1. Teaching Assistant
+1. Paper Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD, *et al*.
+2. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
     * Introduction to Database (For undergraduate students, Fall 2023, Teacher: Wenyang Bai)
-2. Counselor assistant (For graduate students, Spring 2022)
-3. Part-time instructor (For undergraduate students, Fall 2022 and Spring 2023)
-4. Paper Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD, *et al*.
+3. Counselor assistant (For graduate students, Spring 2022)
+4. Part-time instructor (For undergraduate students, Fall 2022 and Spring 2023)
 
 ### Correspondence
 
