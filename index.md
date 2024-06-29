@@ -20,7 +20,10 @@ I'm a third-year Ph.D.student in the Department of Computer Science and Technolo
 
 I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021 (**GPA Rank 3/353**). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
-I always believe that: (1) **no pain, no gain.** (历经风雨才有收获), (2) there is no royal road to learning (书山有路勤为径,学海无涯苦作舟), and (3) with great power comes great responsibility (能力越强责任越大).
+I always believe that: 
+ - **no pain, no gain** (没有痛苦,没有收获)
+ - there is no royal road to learning (书山有路勤为径,学海无涯苦作舟)
+ - with great power comes great responsibility (能力越强责任越大)
 
 ### Interests
 
