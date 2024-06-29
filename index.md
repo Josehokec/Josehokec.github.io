@@ -6,7 +6,7 @@
       <p><b>Ph.D.Student, LANDS Group</b></p>
       <p><b>Nanjing University (NJU)</b></p>
       <p><b>Department of Computer Science & Technology</b></p>
-      <p><b>Email: shizheliu@smail.nju.edu.cn</b></p>
+      <p><b>shizheliu@smail.nju.edu.cn</b></p>
     </td>
     <td width="25%">
       <p><h1>Photos</h1></p>
@@ -30,9 +30,11 @@ I received my B.Eng. degree from the Software College of [Jilin University](http
 
 
 ### Awards & Honors
-Nanjing University Presidental Special Scholarship, 2021
+Nanjing University Presidental Special Scholarship, 2021 [PDF](/credentials/doctor_scholarship.pdf)
 
-Nanjing University Excellent Graduate Student, 2022
+Nanjing University Excellent Graduate Student, 2022 [PDF](/credentials/excellent_student.pdf)
+
+Department of Computer Science & Technology Excellent graduate cadres [PDF](/credentials/excellent_student_association.pdf)
 
 ### Publications
 
@@ -46,21 +48,19 @@ I always believe that:
 
 ### Volunteer Service
 
-1. Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD, *et al*.
+1. Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD, ICDM *et al*.
 2. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
     * Introduction to Database (For undergraduate students, Fall 2023, Teacher: Wenyang Bai)
-3. Counselor assistant (For graduate students, Spring 2022)
-4. Part-time instructor (For undergraduate students, Fall 2022 and Spring 2023)
+3. Part-time counselor (For undergraduate students, Fall 2022 and Spring 2023)
 
 ### Correspondence
 
-|*Contact way*|*Information*|
-|:--:|:--:|
-|Office Email|**shizheliu@smail.nju.edu.cn**|
-| Wechat | 18774669895 |
-| Address | Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China |
+Please contact me via email: **shizheliu@smail.nju.edu.cn**
+
+### Address
+Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
 
 
 <a href="https://info.flagcounter.com/9fKv"><img src="https://s11.flagcounter.com/count2/9fKv/bg_FFFFF5/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
