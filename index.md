@@ -29,7 +29,7 @@ I always believe that:
 
 1. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)]
 2. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
-3. **Probabilistic data structure**, for example, bloom filter, sketch [[slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.)], and cuckoo filter
+3. **Probabilistic Data Structure**, for example, Bloom Filter, Sketch [[slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.)], and Cuckoo Filter
 4. **Database Index Structure**, includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
 5. **Time Series Data Mining** [[slides](/Time_Series_Data_Mining.pdf)]
 
