@@ -20,6 +20,8 @@ I'm a third-year Ph.D.student in the Department of Computer Science and Technolo
 
 I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021 (**GPA Rank 3/353**). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
+I always believe that: (1) **no pain, no gain.** (历经风雨才有收获), (2) there is no royal road to learning (书山有路勤为径,学海无涯苦作舟), and (3) with great power comes great responsibility (能力越强责任越大).
+
 ### Interests
 
 1. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)]
@@ -41,10 +43,6 @@ Department of Computer Science & Technology Excellent graduate cadres [PDF](/cre
 [KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD (CCF A), August 25-29, Barcelona, Spain, 2024.
 
 [UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. "MagSound: Magnetic Field Assisted Wireless Earphone Tracking". In UbiCom (CCF A), October 8-12, Cancun, Mexico, 2023. [PDF](https://dl.acm.org/doi/10.1145/3580889)
-
-I always believe that: 
-1. ***No pain, no gain.***
-2. With great power comes great responsibility.
 
 ### Volunteer Service
 
