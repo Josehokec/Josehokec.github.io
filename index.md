@@ -43,9 +43,9 @@ Department of Computer Science & Technology Excellent graduate cadres [PDF](/cre
 
 ### Publications
 
-[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD (CCF A), August 25-29, Barcelona, Spain, 2024. [PDF](https://dl.acm.org/doi/10.1145/3637528.3671814) [Video](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)
+[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD (CCF A), August 25-29, Barcelona, Spain, 2024. [PDF](https://dl.acm.org/doi/10.1145/3637528.3671814) 
 
-[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiCom (CCF A), October 8-12, Cancun, Mexico, 2023. [PDF](https://dl.acm.org/doi/10.1145/3580889)
+[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiCom (CCF A), October 8-12, Cancun, Mexico, 2023. [PDF](https://dl.acm.org/doi/10.1145/3580889) [Video](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)
 
 ### Volunteer Service
 
