@@ -39,7 +39,7 @@ Nanjing University Presidental Special Scholarship, 2021 [PDF](/credentials/doct
 
 Nanjing University Excellent Graduate Student, 2022 [PDF](/credentials/excellent_student.pdf)
 
-Department of Computer Science & Technology Excellent graduate cadres [PDF](/credentials/excellent_student_association.pdf)
+Department of Computer Science & Technology Excellent graduate cadres, 2023 [PDF](/credentials/excellent_student_association.pdf)
 
 ### Publications
 
