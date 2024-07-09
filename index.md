@@ -16,7 +16,7 @@
 </table>
 
 ### Biography
-I'm a third-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://www.comsoc.org/membership/ieee-fellows/2023) and [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml))and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
+I'm a fourth-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://www.comsoc.org/membership/ieee-fellows/2023) and [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml)) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
 I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021 (**GPA Rank 3/353**). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
@@ -29,8 +29,8 @@ I always believe that:
 
 1. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)]
 2. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
-3. **Probabilistic Data Structure**, for example, Bloom Filter, Sketch [[slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.)], and Cuckoo Filter
-4. **Database Index Structure**, includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
+3. **Probabilistic Data Structures**, *e.g.*, Bloom Filter, Sketch [[slides](/sketch.pptx) (Ref: 2022. Tong Yang. High performance Network Measurement.)], and Cuckoo Filter
+4. **Database Index Structures**, includes [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
 5. **Time Series Data Mining** [[slides](/Time_Series_Data_Mining.pdf)]
 
 
