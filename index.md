@@ -53,8 +53,7 @@ Department of Computer Science & Technology Excellent graduate cadres, 2023 [PDF
 2. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
-    * Introduction to Database (For undergraduate students, Fall 2023, Teacher: Wenyang Bai)
-    * Introduction to Database (For undergraduate students, Fall 2024, Teacher: Wenyang Bai)
+    * Introduction to Database (For undergraduate students, Fall 2023 & 2024, Teacher: Wenyang Bai)
 3. Part-time counselor (For undergraduate students, Fall 2022 and Spring 2023)
 
 ### Correspondence
