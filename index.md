@@ -41,9 +41,9 @@ I always believe that:
 
 ### Publications
 
-[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024. CCF-A. [Paper](/KDD24_ACER.pdf) [Video](https://www.youtube.com/watch?v=GW4QsuRyXHc) [Poster](/acer_poster.pdf) [Slides](/acer_slides.pptx) [Code](https://github.com/Josehokec/ACER4CER)
+[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024. **CCF-A**. [Paper](/KDD24_ACER.pdf) [Video](https://www.youtube.com/watch?v=GW4QsuRyXHc) [Poster](/acer_poster.pdf) [Slides](/acer_slides.pptx) [Code](https://github.com/Josehokec/ACER4CER)
 
-[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiCom, October 8-12, Cancun, Mexico, 2023. <kbd>[Paper](/UbiComp23_MagSound.pdf)</kbd> <kbd>[Video](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)</kbd>
+[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiCom, October 8-12, Cancun, Mexico, 2023. **CCF-A**. [Paper](/UbiComp23_MagSound.pdf) [Video](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)
 
 ### Volunteer Service
 
