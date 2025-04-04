@@ -36,7 +36,7 @@ I always believe that:
 
 ### Awards & Honors
 1. Nanjing University Presidential Special Scholarship, 2021 [Certificate](/credentials/doctor_scholarship.pdf)
-2. Nanjing University Excellent Graduate Student, 2022 [Certificate](/credentials/excellent_student.pdf)
+2. Nanjing University Excellent Graduate Student, 2022 & 2024 [Certificate](/credentials/excellent_student.pdf)
 3. Department of Computer Science & Technology Excellent graduate cadres, 2023 [Certificate](/credentials/excellent_student_association.pdf)
 
 ### Publications
