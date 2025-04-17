@@ -18,12 +18,12 @@
 ### Biography
 I'm a fourth-year Ph.D.student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE](https://www.comsoc.org/membership/ieee-fellows/2023) & [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml)) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
-I received my B.Eng. degree from the Software College of [Jilin University](https://www.jlu.edu.cn/) in June 2021 (**GPA Rank 3/353**). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
+I received my B.Eng. degree from the Software College of Jilin University (outstanding engineer education and training program) in June 2021 (**GPA Rank 3/353**). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
 I always believe that: 
- - **no pain, no gain** (没有痛苦,没有收获)
- - there is no royal road to learning (书山有路勤为径,学海无涯苦作舟)
- - with great power comes great responsibility (能力越强责任越大)
+ - **No pain, no gain.** (没有痛苦,没有收获.)
+ - There is no royal road to learning. (书山有路勤为径,学海无涯苦作舟.)
+ - With great power comes great responsibility. (能力越强责任越大.)
 
 ### Interests
 
@@ -36,8 +36,9 @@ I always believe that:
 
 ### Awards & Honors
 1. Nanjing University Presidential Special Scholarship, 2021 [Certificate](/credentials/doctor_scholarship.pdf)
-2. Nanjing University Excellent Graduate Student, 2022 & 2024 [Certificate](/credentials/excellent_student.pdf)
-3. Department of Computer Science & Technology Excellent graduate cadres, 2023 [Certificate](/credentials/excellent_student_association.pdf)
+2. Nanjing University Ph.D. Scholarship (First Class), 2024
+3. Nanjing University Excellent Graduate Student, 2022 & 2024 [Certificate](/credentials/excellent_student.pdf)
+4. Department of Computer Science & Technology Excellent graduate cadres, 2023 [Certificate](/credentials/excellent_student_association.pdf)
 
 ### Publications
 
@@ -45,14 +46,15 @@ I always believe that:
 
 [UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiCom, October 8-12, Cancun, Mexico, 2023. **CCF-A**. [Paper](/UbiComp23_MagSound.pdf) [Video](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)
 
-### Volunteer Service
+### Service
 
 1. Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD, ICDM *et al*.
-2. Teaching Assistant
+2. Supervisor of the National Training Program of Innovation for Undergraduates [Certificate](/credentials/training_program.pdf)
+3. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
     * Introduction to Database (For undergraduate students, Fall 2023 & 2024, Teacher: Wenyang Bai)
-3. Part-time counselor (For undergraduate students, Fall 2022 and Spring 2023)
+4. Part-time Counselor (For undergraduate students, Fall 2022 and Spring 2023)
 
 ### Correspondence
 
