@@ -16,7 +16,7 @@
 </table>
 
 ### Biography
-I'm a fourth-year Ph.D student in the Department of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE](https://www.comsoc.org/membership/ieee-fellows/2023) & [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml)) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
+I'm a fourth-year Ph.D student in the School of Computer Science and Technology, Nanjing University, supervised by professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://www.comsoc.org/membership/ieee-fellows/2023) & [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml)) and [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
 
 I received my B.Eng. degree from the Software College of Jilin University (outstanding engineer education and training program) in June 2021 (**GPA Rank 3/353**). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
@@ -29,7 +29,7 @@ I always believe that:
 
 1. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)] [[FlinkCEP]](https://nightlies.apache.org/flink/flink-docs-master/docs/libs/cep/) [[tools]](https://www.databricks.com/glossary/complex-event-processing)
 2. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
-3. **Probabilistic Data Structures**, *e.g.*, Bloom Filter[[hitchhiker's guide]](/bloom-filter-slides), Cuckoo Filter [[slides1](/infocom24.pptx), [slides2](/eurosys.pptx)], and Sketch [[slides](/sketch.pptx)]
+3. **Probabilistic Data Structures**, *e.g.*, Bloom Filter [[hitchhiker's guide]](/bloom-filter-slides), Cuckoo Filter [[slides1](/infocom24.pptx), [slides2](/eurosys.pptx)], and Sketch [[slides](/sketch.pptx)]
 4. **Database Index Structures**, include [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
 5. **Time Series Data Mining** [[slides](/Time_Series_Data_Mining.pdf)]
 
@@ -61,7 +61,7 @@ I always believe that:
 Please contact me via email: **shizheliu@smail.nju.edu.cn**
 
 ### Address
-Department of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
+School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
 
 
 <a href="https://info.flagcounter.com/9fKv"><img src="https://s11.flagcounter.com/count2/9fKv/bg_FFFFF5/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
