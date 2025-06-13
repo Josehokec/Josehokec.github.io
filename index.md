@@ -48,13 +48,14 @@ I always believe that:
 
 ### Service
 
-1. Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD, ICDM *et al*.
+1. Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD (**Outstanding Reviewer**), ICDM *et al*.
 2. Supervisor of the National Training Program of Innovation for Undergraduates [Certificate](/credentials/training_program.pdf)
 3. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
     * Introduction to Database (For undergraduate students, Fall 2023 & 2024, Teacher: Wenyang Bai)
 4. Part-time Counselor (For undergraduate students, Fall 2022 and Spring 2023)
+5. [Writing Guide](https://github.com/Josehokec/LatexWriting)
 
 ### Correspondence
 
