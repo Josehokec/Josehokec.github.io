@@ -10,7 +10,7 @@
     </td>
     <td width="28%">
       <p><h1>Photos</h1></p>
-      <img src="2025.JPG" width="100%">
+      <img src="2025.JPG" width="90%">
     </td>
   </tr>  
 </table>
