@@ -8,6 +8,7 @@
       <p><b>School of Computer Science</b></p>
       <p><b>shizheliu@smail.nju.edu.cn</b></p>
     </td>
+  </tr>  
 </table>
 
 ### Biography
