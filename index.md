@@ -1,18 +1,13 @@
 ## About Me
 <table border="0">
   <tr>
-    <td width="72%">
+    <td width="90%">
       <p><h1>Shizhe LIU (刘世喆) </h1></p>
       <p><b>Ph.D.Student, LANDS Group</b></p>
       <p><b>Nanjing University (NJU)</b></p>
       <p><b>School of Computer Science</b></p>
       <p><b>shizheliu@smail.nju.edu.cn</b></p>
     </td>
-    <td width="28%">
-      <p><h1>Photos</h1></p>
-      <img src="1191688034108_.pic.jpg" width="100%">
-    </td>
-  </tr>
 </table>
 
 ### Biography
