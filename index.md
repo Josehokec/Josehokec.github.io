@@ -47,7 +47,7 @@ I always believe that:
 
 [UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiComp, October 8-12, Cancun, Mexico, 2023. **CCF-A**. [📄](/UbiComp23_MagSound.pdf) [🎦](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)
 
-Icons' explanation: 📄(Paper) 🎦(Video) 🪧(Poster) 🎞(Slides) 🖥️(Code)
+Icons' explanation: 📄(Paper)   🎦(Video)   🪧(Poster)   🎞(Slides)   🖥️(Code)
 
 ### Service
 
@@ -63,6 +63,7 @@ Icons' explanation: 📄(Paper) 🎦(Video) 🪧(Poster) 🎞(Slides) 🖥️(Co
 ### Correspondence & Address
 
 📧: **shizheliu@smail.nju.edu.cn**
+
 🏢: School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
 
 
