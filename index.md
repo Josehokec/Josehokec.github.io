@@ -40,11 +40,14 @@ I always believe that:
 3. Nanjing University Excellent Graduate Student, 2022 & 2024 [Certificate](/credentials/excellent_student.pdf)
 4. Department of Computer Science & Technology Excellent graduate cadres, 2023 [Certificate](/credentials/excellent_student_association.pdf)
 
-### Publications
+### Publications 
 
-[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024. **CCF-A**. [📄](/KDD24_ACER.pdf) [Video](https://www.youtube.com/watch?v=GW4QsuRyXHc) [Poster](/acer_poster.pdf) [Slides](/acer_slides.pptx) [Code](https://github.com/Josehokec/ACER4CER)
 
-[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiComp, October 8-12, Cancun, Mexico, 2023. **CCF-A**. [Paper](/UbiComp23_MagSound.pdf) [Video](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)
+[KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024. **CCF-A**. [📄](/KDD24_ACER.pdf) [🎦](https://www.youtube.com/watch?v=GW4QsuRyXHc) [🪧](/acer_poster.pdf) [🎞](/acer_slides.pptx) [🖥️](https://github.com/Josehokec/ACER4CER)
+
+[UbiComp'23] Lihao Wang, Wei Wang, Haipeng Dai, **Shizhe Liu**. MagSound: Magnetic Field Assisted Wireless Earphone Tracking. In UbiComp, October 8-12, Cancun, Mexico, 2023. **CCF-A**. [📄](/UbiComp23_MagSound.pdf) [🎦](https://www.youtube.com/watch?v=MLKMuSyfhVc&t=3s)
+
+Icons' explanation: 📄(Paper) 🎦(Video) 🪧(Poster) 🎞(Slides) 🖥️(Code)
 
 ### Service
 
@@ -59,7 +62,7 @@ I always believe that:
 
 ### Correspondence
 
-Please contact me via email: **shizheliu@smail.nju.edu.cn**
+📧: **shizheliu@smail.nju.edu.cn**
 
 ### Address
 School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
