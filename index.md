@@ -60,12 +60,10 @@ Icons' explanation: 📄(Paper) 🎦(Video) 🪧(Poster) 🎞(Slides) 🖥️(Co
 4. Part-time Counselor (For undergraduate students, Fall 2022 and Spring 2023)
 5. [Writing Guide](https://github.com/Josehokec/LatexWriting)
 
-### Correspondence
+### Correspondence & Address
 
 📧: **shizheliu@smail.nju.edu.cn**
-
-### Address
-School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
+🏢: School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
 
 
 <a href="https://info.flagcounter.com/9fKv"><img src="https://s11.flagcounter.com/count2/9fKv/bg_FFFFF5/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
