@@ -16,7 +16,7 @@
 </table>
 
 ### Biography
-I'm a fourth-year Ph.D. student ([MyCV](/MyCV250902.pdf)) in the School of Computer Science, Nanjing University, supervised by Professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://services27.ieee.org/fellowsdirectory/keywordsearch.html?keyword=Chen%20Guihai) & [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml)) and Associate Professor [Haipeng Dai](https://cs.nju.edu.cn/daihp/). I am currently conducting a short-term academic visit and exchange at Tsinghua University under the supervision of Associate Professor [Shaoxu Song](https://sxsong.github.io/).
+I'm a fourth-year Ph.D. student ([MyCV](/MyCV250902.pdf)) in the School of Computer Science, Nanjing University, supervised by Professor [Guihai Chen](http://cs.nju.edu.cn/gchen) ([IEEE Fellow](https://services27.ieee.org/fellowsdirectory/keywordsearch.html?keyword=Chen%20Guihai) & [CCF Fellow](https://www.ccf.org.cn/Membership/Individual_member/Honor/2021-07-21/671453.shtml)) and Associate Professor [Haipeng Dai](https://cs.nju.edu.cn/daihp/). **I am currently conducting a short-term academic visit and exchange at Tsinghua University under the supervision of Associate Professor [Shaoxu Song](https://sxsong.github.io/).**
 
 I received my B.Eng. degree from the Software College of Jilin University (outstanding engineer education and training program) in June 2021 (**GPA Rank 3/353**). In the same year, I was admitted to pursue a Ph.D. in [Nanjing University](https://www.nju.edu.cn/) without an entrance examination.
 
@@ -41,7 +41,6 @@ I always believe that:
 4. Department of Computer Science & Technology Excellent graduate cadres, 2023 [Certificate](/credentials/excellent_student_association.pdf)
 
 ### Publications 
-
 
 [KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024. **CCF-A**. [📄](/KDD24_ACER.pdf) [🎦](https://www.youtube.com/watch?v=GW4QsuRyXHc) [🪧](/acer_poster.pdf) [🎞](/acer_slides.pptx) [🖥️](https://github.com/Josehokec/ACER4CER)
 
