@@ -42,7 +42,7 @@ I always believe that:
 
 ### Publications 
 
-[ICDE'26] **Shizhe Liu**, Haipeng Dai, Meng Li, Yuemeng Zhang, Shaoxu Song, Zhifeng Bao, Hancheng Wang, Xiaofeng Gao, Guihai Chen. When Complex Event Recognition Meets Cloud-Native Architectures. In ICDE, May 4-8, Montreal,Canada, 2026. **CCF-A**. [🖥️](https://github.com/Josehokec/CERMeetsDS)
+[ICDE'26] **Shizhe Liu**, Haipeng Dai, Meng Li, Yuemeng Zhang, Shaoxu Song, Zhifeng Bao, Hancheng Wang, Xiaofeng Gao, Guihai Chen. When Complex Event Recognition Meets Cloud-Native Architectures. In ICDE, May 4-8, Montreal, Canada, 2026. **CCF-A**. [📄](/ICDE26.pdf) [🖥️](https://github.com/Josehokec/CERMeetsDS)
 
 
 [KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024. **CCF-A**. [📄](/KDD24_ACER.pdf) [🎦](https://www.youtube.com/watch?v=GW4QsuRyXHc) [🪧](/acer_poster.pdf) [🎞](/acer_slides.pptx) [🖥️](https://github.com/Josehokec/ACER4CER)
