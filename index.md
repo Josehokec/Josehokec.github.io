@@ -53,7 +53,7 @@ Icons' explanation: 📄(Paper),   🎦(Video),   🪧(Poster),   🎞(Slides), 
 
 ### Service
 
-1. Assistant Reviewer: VLDB, TKDE, INFOCOM, SC, SIGKDD (**Outstanding Reviewer**), ICDM *et al*.
+1. Assistant Reviewer: VLDB, SIGKDD (**Outstanding Reviewer**), SC, INFOCOM, TKDE, ICDM, TCE (Transactions on Consumer Electronics) *et al*.
 2. Supervisor of the National Training Program of Innovation for Undergraduates [Certificate](/credentials/training_program.pdf)
 3. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
