@@ -42,7 +42,7 @@ I always believe that:
 
 ### Publications 
 
-[TKDE'26] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Yuemeng Zhang, Hancheng Wang, Du Zhang, Rong Gu, Guihai Chen. Accelerating Complex Event Recognition via Range Bitmap-based Indexes with Window-wise Filtering. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. **CCF-A.**
+[TKDE'26] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Yuemeng Zhang, Hancheng Wang, Du Zhang, Rong Gu, Guihai Chen. Accelerating Complex Event Recognition via Range Bitmap-based Indexes with Window-wise Filtering. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. **CCF-A.**
 
 [ICDE'26] **Shizhe Liu**, Haipeng Dai, Meng Li, Yuemeng Zhang, Shaoxu Song, Zhifeng Bao, Hancheng Wang, Xiaofeng Gao, Guihai Chen. When Complex Event Recognition Meets Cloud-Native Architectures. In ICDE, May 4-8, Montreal, Canada, 2026. **CCF-A**. [📄](/ICDE26.pdf) [🖥️](https://github.com/Josehokec/CERMeetsDS)
 
