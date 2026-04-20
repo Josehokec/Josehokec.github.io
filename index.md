@@ -44,7 +44,7 @@ I always believe that:
 
 [TKDE'26] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Yuemeng Zhang, Hancheng Wang, Du Zhang, Rong Gu, Guihai Chen. Accelerating Complex Event Recognition via Range Bitmap-based Indexes with Window-wise Filtering. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. **CCF-A.**[📄](https://ieeexplore.ieee.org/document/11459403)
 
-[ICDE'26] **Shizhe Liu**, Haipeng Dai, Meng Li, Yuemeng Zhang, Shaoxu Song, Zhifeng Bao, Hancheng Wang, Xiaofeng Gao, Guihai Chen. When Complex Event Recognition Meets Cloud-Native Architectures. In ICDE, May 4-8, Montreal, Canada, 2026. **CCF-A**. [📄](/ICDE26.pdf) [🖥️](https://github.com/Josehokec/CERMeetsDS) [🎞](cloud_cer.pptx)
+[ICDE'26] **Shizhe Liu**, Haipeng Dai, Meng Li, Yuemeng Zhang, Shaoxu Song, Zhifeng Bao, Hancheng Wang, Xiaofeng Gao, Guihai Chen. When Complex Event Recognition Meets Cloud-Native Architectures. In ICDE, May 4-8, Montreal, Canada, 2026. **CCF-A**. [📄](/ICDE26.pdf) [🎞](cloud_cer.pptx) [🖥️](https://github.com/Josehokec/CERMeetsDS)
 
 
 [KDD'24] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Jingsong Dai, Rong Gu, Guihai Chen. ACER: Accelerating Complex Event Recognition via Two-Phase Filtering under Range Bitmap-Based Indexes. In KDD, August 25-29, Barcelona, Spain, 2024. **CCF-A**. [📄](/KDD24_ACER.pdf) [🎦](https://www.youtube.com/watch?v=GW4QsuRyXHc) [🪧](/acer_poster.pdf) [🎞](/acer_slides.pptx) [🖥️](https://github.com/Josehokec/ACER4CER)
