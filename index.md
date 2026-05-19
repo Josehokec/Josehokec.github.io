@@ -45,7 +45,7 @@ I always believe that:
 
 [TKDE'26] **Shizhe Liu**, Haipeng Dai, Shaoxu Song, Meng Li, Yuemeng Zhang, Hancheng Wang, Du Zhang, Rong Gu, Guihai Chen. Accelerating Complex Event Recognition via Range Bitmap-based Indexes with Window-wise Filtering. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. **CCF-A.**[📄](https://ieeexplore.ieee.org/document/11459403)
 
-[ICDE'26] **Shizhe Liu**, Haipeng Dai, Meng Li, Yuemeng Zhang, Shaoxu Song, Zhifeng Bao, Hancheng Wang, Xiaofeng Gao, Guihai Chen. When Complex Event Recognition Meets Cloud-Native Architectures. In ICDE, May 4-8, Montreal, Canada, 2026. **CCF-A**. [📄](/ICDE26.pdf) [🎞](cloud_cer_2.pptx) [🖥️](https://github.com/Josehokec/CERMeetsDS)
+[ICDE'26] **Shizhe Liu**, Haipeng Dai, Meng Li, Yuemeng Zhang, Shaoxu Song, Zhifeng Bao, Hancheng Wang, Xiaofeng Gao, Guihai Chen. When Complex Event Recognition Meets Cloud-Native Architectures. In ICDE, May 4-8, Montreal, Canada, 2026. **CCF-A**. [📄](/ICDE26_final.pdf) [🎞](cloud_cer_2.pptx) [🖥️](https://github.com/Josehokec/CERMeetsDS)
 
 [CNETCNED'25] Haipeng Dai, Jiaqi Zheng, Jia Liu, Yuben Qu, Meng Li, Ying Jin, **Shizhe Liu**, Si Shen, Guihai Chen. Adaptive Reform for Computer Network Experimental Teaching in the Era of LLMs. In proceedings of the 16th CCF Symposium, CNETCNED 2025, August 18-20, Dalian, China, 2025. [📄](https://link.springer.com/chapter/10.1007/978-981-95-7124-6_7) [🎞](CNETCNED25.pptx)
 
