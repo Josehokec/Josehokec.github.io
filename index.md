@@ -57,14 +57,15 @@ Icons' explanation: 📄(Paper),  🎦(Video),  🪧(Poster),  🎞(Slides),  �
 
 ### Service
 
-1. Assistant Reviewer: VLDB, SIGKDD (**Outstanding Reviewer**), SC, INFOCOM, TKDE, ICDM, TCE (Transactions on Consumer Electronics) *et al*.
-2. Supervisor of the National Training Program of Innovation for Undergraduates [Certificate](/credentials/training_program.pdf)
-3. Teaching Assistant
+1. Assistant Reviewer (*i.e.*, assisting the supervisor in reviewing the manuscript): VLDB 2026, SIGKDD 2026(**Outstanding Reviewer** in February Cycle, **Excellent Reviewer** in August Cycle), SC, INFOCOM, TKDE, *et al*.
+2. Reviewer: [ICDM 2026](https://icdm2026.neu.edu.cn/), [TCE 2026](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30), [WAIC Academic 2026](https://waica2026.worldaic.com.cn/).
+3. Supervisor of the National Training Program of Innovation for Undergraduates [Certificate](/credentials/training_program.pdf)
+4. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
     * Distributed Networks (For graduate students, Fall 2022, Teacher: Guihai Chen)
     * Introduction to Database (For undergraduate students, Fall 2023 & 2024, Teacher: Wenyang Bai)
-4. Part-time Counselor (For undergraduate students, Fall 2022 and Spring 2023)
-5. [Writing Guide](https://github.com/Josehokec/LatexWriting)
+5. Part-time Counselor (For undergraduate students, Fall 2022 and Spring 2023)
+6. [Writing Guide](https://github.com/Josehokec/LatexWriting)
 
 ### Correspondence & Address
 
