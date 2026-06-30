@@ -28,7 +28,7 @@ I always believe that:
 ### Interests
 
 1. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)] [[FlinkCEP]](https://nightlies.apache.org/flink/flink-docs-master/docs/libs/cep/) [[Tools]](https://www.databricks.com/glossary/complex-event-processing)
-2. **Data Analysis and Processing with LLMs** [Recommended Reading](https://arxiv.org/abs/2603.13774)
+2. **Data Analysis and Processing with LLMs** [Multi-Agent Cooperation](https://xue-guang.com/post/llm-marl/)
 3. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
 4. **Probabilistic Data Structures**, *e.g.*, Bloom Filter [[hitchhiker's guide]](/bloom-filter-slides.pdf), Cuckoo Filter [[slides1](/infocom24.pptx), [slides2](/eurosys.pptx)], and Sketch [[slides](/sketch.pptx)]
 5. **Database Index Structures**, include [Timeseries Index](https://link.springer.com/article/10.1007/s00778-019-00573-w) and [B+/LSM Tree Index](https://dl.acm.org/doi/10.1145/3299869.3300097)
