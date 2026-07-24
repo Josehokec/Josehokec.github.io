@@ -58,7 +58,7 @@ Icons' explanation: 📄(Paper),  🎦(Video),  🪧(Poster),  🎞(Slides),  �
 ### Service
 
 1. Assistant Reviewer (*i.e.*, assisting the supervisor in reviewing the manuscript): VLDB 2026, SIGKDD 2026(**Outstanding Reviewer** in February Cycle, **Excellent Reviewer** in August Cycle), SC, INFOCOM, TKDE, *et al*.
-2. Reviewer: [ICDM 2026](https://icdm2026.neu.edu.cn/), [TCE 2026](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30), [WAIC Academic 2026](https://waica2026.worldaic.com.cn/).
+2. Reviewer: [ICDM 2026](https://icdm2026.neu.edu.cn/), [IoTJ 2026](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), [TCE 2026](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30), [WAIC Academic 2026](https://waica2026.worldaic.com.cn/).
 3. Supervisor of the National Training Program of Innovation for Undergraduates [Certificate](/credentials/training_program.pdf)
 4. Teaching Assistant
     * Fundamentals of Computer Systems (For undergraduate students, Fall 2021, Teacher: Haipeng Dai)
