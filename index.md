@@ -3,10 +3,10 @@
   <tr>
     <td width="70%">
       <p><h1>Shizhe LIU (刘世喆)  </h1></p>
-      <p><b>Ph.D.Student, LANDS Group</b></p>
-      <p><b>Nanjing University (NJU)</b></p>
       <p><b>School of Computer Science</b></p>
+      <p><b>Nanjing University (NJU)</b></p>
       <p><b>shizheliu@smail.nju.edu.cn</b></p>
+      <p><b>t0939974@u.nus.edu</b></p>
     </td>
     <td width="28%">
       <p><h1>Photos</h1></p>
