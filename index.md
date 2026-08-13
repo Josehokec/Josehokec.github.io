@@ -3,10 +3,10 @@
   <tr>
     <td width="70%">
       <p><h1>Shizhe LIU (刘世喆)  </h1></p>
+      <p><b>Ph.D. student, LANDS Group</b></p>
       <p><b>School of Computer Science</b></p>
       <p><b>Nanjing University (NJU)</b></p>
       <p><b>shizheliu@smail.nju.edu.cn</b></p>
-      <p><b>t0939974@u.nus.edu</b></p>
     </td>
     <td width="28%">
       <p><h1>Photos</h1></p>
@@ -69,7 +69,7 @@ Icons' explanation: 📄(Paper),  🎦(Video),  🪧(Poster),  🎞(Slides),  �
 
 ### Correspondence & Address
 
-📧: **shizheliu@smail.nju.edu.cn**
+📧: **shizheliu@smail.nju.edu.cn** or **t0939974@u.nus.edu**
 
 🏢: School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
 
