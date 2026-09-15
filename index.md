@@ -35,7 +35,7 @@ I always believe that:
 6. **Time Series Data Mining** [[slides](/Time_Series_Data_Mining.pdf)]
 
 
-### LLM-induced anxiety 
+### LLMs-induced anxiety 
 
 *--Written by Shizhe and polished by Claude.*
 
