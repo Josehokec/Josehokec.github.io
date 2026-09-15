@@ -37,7 +37,7 @@ I always believe that:
 
 ### LLM-induced anxiety 
 
-*--Written by Liu Shizhe and polished by Claude.*
+*--Written by Shizhe and polished by Claude.*
 
 With the qualitative leap in LLMs' capabilities, the barrier to scientific research has fallen dramatically. Tasks that once demanded countless hours—gathering trace data, deriving theory, writing and painstakingly optimizing code—now seem entirely within reach of these models. At present, LLMs remain remarkably poor at identifying the right questions to ask, yet prove formidable once a problem is well defined. Given the pace of their advancement, it is conceivable that within a year or two, LLMs may conceive ideas genuinely superior to those of human researchers—at which point humanity's role becomes uncertain. Should that day arrive, PhDs would find themselves obsolete, and the originality and ethical foundations of research would collapse entirely. **The frontier of human knowledge, rather than expanding, would sharply contract.** Where, then, would researchers of the future turn?
 
