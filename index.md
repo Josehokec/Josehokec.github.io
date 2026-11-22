@@ -24,11 +24,12 @@ I always believe that:
  - **No pain, no gain.** (没有痛苦,没有收获.)
  - There is no royal road to learning. (书山有路勤为径,学海无涯苦作舟.)
  - With great power comes great responsibility. (能力越强责任越大.)
+ - Fast-paced research only produces junk. (好的研究值得等待.)
 
 ### Interests (roughly in order of current focus)
 
-1. **Data Analysis and Processing with LLMs** [[Survey of Multi-Agent Cooperation]](https://xue-guang.com/post/llm-marl/) [[Tutorials of Data Agent]](https://2026.sigmod.org/slides/DataAgents-SIGMOD2026.pdf)
-2. **LLM infra**, *e.g.*, KV Cache, Fine-tuning
+1. **Data Analysis and Processing with LLMs** [[Survey of Multi-Agent Cooperation]](https://xue-guang.com/post/llm-marl/) [[Tutorials of Data Agent]](https://2026.sigmod.org/slides/DataAgents-SIGMOD2026.pdf) [Semantic Operator](https://github.com/Josehokec/SemanticOperator)
+2. **LLM infra**, *e.g.*, KV Cache, Fine-tuning, Data Pre-processing (believe me, data is king for LLM)
 3. **Complex Event Processing** [[survey](https://link.springer.com/article/10.1007/s00778-019-00557-w)] [[FlinkCEP]](https://nightlies.apache.org/flink/flink-docs-master/docs/libs/cep/) [[Tools]](https://www.databricks.com/glossary/complex-event-processing)
 4. **Time Series Database** [[slides](/Introduction_to_Time_Series_Database.pdf)], mainly focus on [IoT (Internet of Things) Database](https://iotdb.apache.org/zh/)
 5. **Probabilistic Data Structures**, *e.g.*, Bloom Filter [[hitchhiker's guide]](/bloom-filter-slides.pdf), Cuckoo Filter [[slides1](/infocom24.pptx), [slides2](/eurosys.pptx)], and Sketch [[slides](/sketch.pptx)]
