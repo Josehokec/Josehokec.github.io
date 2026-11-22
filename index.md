@@ -24,7 +24,7 @@ I always believe that:
  - **No pain, no gain.** (没有痛苦,没有收获.)
  - There is no royal road to learning. (书山有路勤为径,学海无涯苦作舟.)
  - With great power comes great responsibility. (能力越强责任越大.)
- - Fast-paced research only produces junk. (好的研究值得等待.)
+ - Hasty research results in nothing but academic trash. (好的研究值得等待.)
 
 ### Interests (roughly in order of current focus)
 
