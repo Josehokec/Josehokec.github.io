@@ -71,7 +71,7 @@ Icons' explanation: 📄(Paper),  🎦(Video),  🪧(Poster),  🎞(Slides),  �
 
 ### Correspondence & Address
 
-📧: **shizheliu@smail.nju.edu.cn** (NJU email) or **t0939974@u.nus.edu** (NUS email)
+📧: **shizheliu@smail.nju.edu.cn** (NJU email) or **shizheliu@comp.nus.edu.sg** (NUS email)
 
 🏢: School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
 
