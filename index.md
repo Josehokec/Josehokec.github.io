@@ -7,6 +7,7 @@
       <p><b>School of Computer Science</b></p>
       <p><b>Nanjing University (NJU)</b></p>
       <p><b>shizheliu@smail.nju.edu.cn</b></p>
+      <p><b>shizheliu@comp.nus.edu.sg</b></p>
     </td>
     <td width="28%">
       <p><h1>Photos</h1></p>
@@ -71,7 +72,7 @@ Icons' explanation: 📄(Paper),  🎦(Video),  🪧(Poster),  🎞(Slides),  �
 
 ### Correspondence & Address
 
-📧: **shizheliu@smail.nju.edu.cn** (NJU email) or **shizheliu@comp.nus.edu.sg** (NUS email)
+📧: **shizheliu@smail.nju.edu.cn** or **shizheliu@comp.nus.edu.sg** 
 
 🏢: School of Computer Science, Nanjing University, 163 Xianlin Avenue, Qixia District, Nanjing, China
 
