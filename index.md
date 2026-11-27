@@ -27,7 +27,9 @@ I always believe that:
  - With great power comes great responsibility. (能力越强责任越大.)
  - Hasty research yields nothing but academic trash. (好研究要时间沉淀.)
 
-### Interests (roughly in order of current focus)
+### Interests
+
+My interests are listed below, roughly in order of current focus.
 
 1. **Data Analysis and Processing with LLMs** [[Survey of Multi-Agent Cooperation]](https://xue-guang.com/post/llm-marl/) [[Tutorials of Data Agent]](https://2026.sigmod.org/slides/DataAgents-SIGMOD2026.pdf) [[Semantic Operator]](https://github.com/Josehokec/SemanticOperator)
 2. **LLM infra**, *e.g.*, KV Cache and Data Pre-processing (*data is king*)
@@ -70,7 +72,7 @@ Icons' explanation: 📄(Paper),  🎦(Video),  🪧(Poster),  🎞(Slides),  �
 5. Part-time Counselor (For undergraduate students, Fall 2022 and Spring 2023)
 6. [Writing Guide](https://github.com/Josehokec/LatexWriting)
 
-### Correspondence & Address
+### Contact
 
 📧: **shizheliu@smail.nju.edu.cn** or **shizheliu@comp.nus.edu.sg** 
 
